@@ -1,5 +1,7 @@
 ﻿<?php 
  
- $file = $file;
+ 
+  print_r($grids);
+
 
 ?>
